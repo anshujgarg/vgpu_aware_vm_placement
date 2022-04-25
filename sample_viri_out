@@ -1,0 +1,26 @@
+Total GPUs =  20  Total input requests =  20  seed value =  3
+Total GPUs used =  10  Out of  20 GPUs
+Requests placed in GPU 1 = 2  Num vGPUs = 24  vGPU memory=  1  Unused vGPUs =  22
+Requests placed in GPU 2 = 1  Num vGPUs = 12  vGPU memory=  2  Unused vGPUs =  11
+Requests placed in GPU 3 = 2  Num vGPUs = 8  vGPU memory=  3  Unused vGPUs =  6
+Requests placed in GPU 4 = 1  Num vGPUs = 6  vGPU memory=  4  Unused vGPUs =  5
+Requests placed in GPU 5 = 3  Num vGPUs = 4  vGPU memory=  6  Unused vGPUs =  1
+Requests placed in GPU 6 = 3  Num vGPUs = 3  vGPU memory=  8  Unused vGPUs =  0
+Requests placed in GPU 7 = 3  Num vGPUs = 3  vGPU memory=  8  Unused vGPUs =  0
+Requests placed in GPU 8 = 2  Num vGPUs = 2  vGPU memory=  12  Unused vGPUs =  0
+Requests placed in GPU 9 = 2  Num vGPUs = 2  vGPU memory=  12  Unused vGPUs =  0
+Requests placed in GPU 10 = 1  Num vGPUs = 2  vGPU memory=  12  Unused vGPUs =  1
+Requests placed in GPU 11 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 12 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 13 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 14 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 15 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 16 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 17 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 18 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 19 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+Requests placed in GPU 20 = 0  Num vGPUs = 0  vGPU memory=  0  Unused vGPUs =  0
+
+Requests placed =  20 , Requests not placed =  0 , GPUs used = 10 , GPUs not used = 10
+
+Total time taken in seconds to find the solution =  7.29560852051e-05
