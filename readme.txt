@@ -1,17 +1,20 @@
+*** Implementation of the paper ***
+
+Virtual Machine Placement solution for VGPU enabled Clouds
+
+https://ieeexplore.ieee.org/abstract/document/9188069
+
 ***File details***
 
 There are 3 files ilp_gurobi.py, vird.py and viri.py.
-(A) ilp_gurobi.py implements the ILP mentioned in the file "ilp.pdf".
-    Slide 17 to Slide 20.
-    The variable used in program are same as used in ILP equations present in slides.
+(A) ilp_gurobi.py implements the ILP mentioned in the paper
+    The variable used in program are same as used in ILP equations present in paper.
 
 (B) vird.py implements the "first fit vGPU increasing requests decreasing (VIRD)"
-    algorithm mention in the file "ilp.pdf"
-    Slide 24 to Slide 25
-
+    algorithm mentioned in the paper.
+    
 (C) viri.py implements the "first fit vGPU increasing requests increasing (VIRI)"
-    algorithm mention in the file "ilp.pdf"
-    Slide 26 to Slide 27
+    algorithm mention in the paper.
 
 
 ***How to run***
